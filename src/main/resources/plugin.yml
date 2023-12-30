@@ -1,0 +1,8 @@
+name: DailyReward
+author: LukasDev
+version: '${project.version}'
+main: de.lukasdev.dailyreward.DailyReward
+api-version: '1.18'
+commands:
+  daily:
+    aliases: [dailyreward, reward]
